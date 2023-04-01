@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ileodo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @ileodo
 
-<!---
-ileodo/ileodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A **full-stack** software engineer passionate about solving **real-life problems** in **elegant** ways.
+
+## 👀 I’m interested in
+- 🏠 IoT
+- 📈 Visualisation
+- 🤖 Automation
